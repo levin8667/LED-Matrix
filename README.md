@@ -10,7 +10,7 @@ https://developer.spotify.com/documentation/web-api/
 
 ![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/kpu8WGP2/c1189bac-9caa-4fc9-a94f-fb72cf505813.jpg?source=viewer&v=ed2bf248e8cb6451f13edbdfbd806a44)
 
-![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/E0uyZQPK/80a7166f-7bea-46e3-836b-adf5bad02faa.gif?source=viewer&v=a463c45e7b8e26217c9a8cee80021c20)
+![ChessUrl](https://p78.f0.n0.cdn.getcloudapp.com/items/jkuXWNWk/5746976c-bb6e-49bc-a8f0-d2b144ff7c29.gif?source=viewer&v=a3b7c5403aa8d57f570aa2bcf7816ea0)
 
 ## ESP32开发板和LED Matrix：
 
