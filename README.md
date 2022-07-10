@@ -1,6 +1,6 @@
 # Python+ESP32驱动LED Matrix展示Spotify专辑封面
 
-该程序被设计为两个部分，ESP32开发板作为mqtt client订阅数据流，另外需要在计算机中运行调用Spotify接口的程序同时作为mqtt client发布者，可打包成桌面端应用。当Spotify中播放音乐时，LED Matrix即可展示专辑封面，并可同步自动切换。
+该程序被设计为两个部分，ESP32开发板作为MQTT Client订阅数据流，另外需要在计算机中运行调用Spotify接口的程序同时作为MQTT Client发布者，可打包成桌面端应用。当Spotify中播放音乐时，LED Matrix即可展示专辑封面，并可同步自动切换。
 
 ## Spotify API:
 
@@ -21,4 +21,5 @@ https://developer.spotify.com/documentation/web-api/
 ## 参考资料：
 
 https://github.com/2dom/PxMatrix
+
 https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
